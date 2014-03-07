@@ -95,6 +95,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 1557,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/Ruby/Ruby.sublime-build",
 	"command_palette":
@@ -185,6 +193,9 @@
 	},
 	"file_history":
 	[
+		"/Users/melpierre/Documents/rails_apps/sample_app/.gitignore",
+		"/Users/melpierre/Documents/rails_apps/sample_app/config/initializers/secret_token.rb",
+		"/Users/melpierre/Documents/rails_apps/sample_app/README.rdoc",
 		"/Users/melpierre/Documents/rails_apps/sample_app/vendor/assets/sass-test.css",
 		"/Users/melpierre/Documents/rails_apps/sample_app/vendor/assets/sass-test.scss",
 		"/Users/melpierre/Documents/rails_apps/sample_app/public/500.html",
@@ -195,7 +206,6 @@
 		"/Users/melpierre/Library/Application Support/Sublime Text 3/Packages/User/sample_app.sublime-project",
 		"/Users/melpierre/Documents/rails_apps/sample_app/vendor/sass-test.scss",
 		"/Users/melpierre/Documents/Projects/Project1/TestPage.html",
-		"/Users/melpierre/Documents/rails_apps/sample_app/README.rdoc",
 		"/Users/melpierre/Documents/Projects/Project1/About.html",
 		"/Users/melpierre/Documents/Projects/Project1/themes/smoothness/jquery-ui.css",
 		"/Users/melpierre/Documents/Projects/Project1/css/menu.css",
@@ -233,11 +243,47 @@
 		"whole_word": false,
 		"wrap": true
 	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/melpierre/Documents/rails_apps/sample_app"
+		}
+	],
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1557,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								879,
+								879
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 356.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
